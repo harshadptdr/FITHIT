@@ -10,17 +10,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [React Docs](https://beta.reactjs.org/)
 - [Stackoverflow](https://stackoverflow.com/)
 
-## Authors
-
-- [@Shuence](https://www.github.com/shuence)
-
 ## Badges
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-gre.svg)](https://opensource.org/licenses/)
 
 ## Live Preview
 
-[Fitclub ⛹️‍♂️](https://fittclub.netlify.app)
+[Fitclub ⛹️‍♂️](https://fithit-3vq2.onrender.com/)
 
 ![image](https://user-images.githubusercontent.com/65482186/222947174-1fcc8ae0-64b7-4d02-b81a-9f8c1f95dd31.png)
 
@@ -51,11 +47,11 @@ Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
-# Hi, I'm Shuence! 👋
+# Hi, I'm Harshad! 👋
 
 ## 🚀 About Me
 
-I'm Shubham A FY B.Tech Student
+I'm Harshad Patidar
 
 A Frontend Developer
 
